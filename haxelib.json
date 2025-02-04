@@ -1,0 +1,23 @@
+{
+  "name": "tjson",
+  "license": "MIT",
+  "tags": [
+    "json",
+    "tjson",
+    "tolerant",
+    "javascript",
+    "parser",
+    "js",
+    "haxe",
+    "haxelib",
+    "cross"
+  ],
+  "description": "Tolerant JSON parser and encoder. Unserializes and serializes JSON data, but without all the strictness of standard JSON parsers. Supports multi and single-line comments, keys without quotes, and single quotes.",
+  "contributors": [
+    "MzkX2"
+  ],
+  "releasenote": "First Release",
+  "version": "1.0.4",
+  "url": "https://github.com/MrzkTeam/tjson",
+  "dependencies": {}
+}
